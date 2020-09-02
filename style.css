@@ -1,0 +1,30 @@
+h1{
+color:rgb(62, 162, 219);
+text-align: center;
+}
+
+
+h2{
+    background-color:rgb(62, 162, 219);
+    color:white;
+    text-align: center;
+}
+
+.links{
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.collage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+a:link{
+    color:red;
+}
+
+
+
